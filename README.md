@@ -1,5 +1,3 @@
-## Welcome to my GitHub profile
-
 - ✌️ Hi, I’m Andrew Ngo!
 - 🌱 I’m interested in machine learning applications to music/art and aerospace
 - 💎 I'm looking for internships and research projects

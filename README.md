@@ -2,7 +2,7 @@
 - 🙇‍♂️ I’m Andrew Ngo.
 - 🌱 I'm a Junior at the [Department of Computer & Information Sciences](https://www.cis.udel.edu/), [University of Delaware](https://www.udel.edu/).
 - 📩 You can reach me at: ango@udel.edu
-- 💎 I'm looking for internships and research projects to work on.
+- 💎 I'm looking for internships and research projects to work on. I have interests in computer vision, human-computer interaction, probability theory, and statistical modeling.
 
 <!---
 andrewango/andrewango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

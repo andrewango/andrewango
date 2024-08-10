@@ -1,6 +1,5 @@
 ## Hi! Welcome to my portfolio.
-- 🙇‍♂️ I’m Andrew Ngo.
-- 🌱 I'm a Senior at the [University of Delaware](https://www.udel.edu/).
+- 🙇‍♂️ I’m Andrew Ngo, a Senior at the [University of Delaware](https://www.udel.edu/).
 - 📩 You can reach me at: ango@udel.edu
 - 💎 I'm looking for internships and research opportunities. I have interests in deep learning, statistical modeling, graph theory, and computer vision.
 

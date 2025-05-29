@@ -1,7 +1,7 @@
 ## Hi! Welcome to my portfolio.
-- 🙇‍♂️ I’m Andrew Ngo, a Senior at the [University of Delaware](https://www.udel.edu/).
+- 🙇‍♂️ I’m Andrew Ngo, a recent graduate at the [University of Delaware](https://www.udel.edu/).
 - 📩 You can reach me at: ango@udel.edu
-- 💎 I'm looking for internships and research opportunities. I have interests in deep learning, statistical modeling, finance, and all things math!
+- 💎 I'm looking for full-time positions. I have interests in software development, deep learning, statistical modeling, finance, and all things math!
 
 <!---
 andrewango/andrewango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

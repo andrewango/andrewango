@@ -1,7 +1,8 @@
 ## Hi! Welcome to my portfolio.
-- 🙇‍♂️ I graduated from the [University of Delaware](https://www.udel.edu/) with a double major in Computer Science and Applied Mathematics.
-- 💎 I'm an aspiring software/ML engineer looking for full-time positions. I have interests in software development, machine learning, graph theory, representation theory, and probability.
+- 🙇‍♂️ I graduated from the [University of Delaware](https://www.udel.edu/) with dual degrees in Computer Science and Applied Mathematics.
+- 💎 I'm a software engineer looking for full-time positions. I have interests in machine learning, graph theory, and representation theory.
 - 📩 You can reach me at: ango@udel.edu
+- 😎 Visit my website: https://andrewango.vercel.app
 
 <!---
 andrewango/andrewango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
